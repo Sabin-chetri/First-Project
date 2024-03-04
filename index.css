@@ -109,7 +109,7 @@ body{
    }
 }
 .title{
-    background-image: url(./assets/top.jpg);
+    background-image: url(./assets/first.png);
     background-size: cover;
     /* width: 100vw; */
     display: flex;
